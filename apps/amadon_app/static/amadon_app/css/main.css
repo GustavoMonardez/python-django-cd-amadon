@@ -1,0 +1,52 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+.wrapper{
+    width: 970px;
+    margin:auto;
+    padding:20px;
+}
+
+.add-word, .words form{
+    display: inline-block;
+    width:50%;
+    margin:auto;
+    padding:30px;
+}
+
+.add-word{
+    border-right:1px solid silver;
+}
+
+.words{
+    display: inline-block;
+    vertical-align: top;
+    width:50%;
+}
+.words form{
+    width: 100%;
+}
+
+.words p{
+    margin-left:20px;
+}
+
+.large{
+    font-size: 26px;
+}
+
+.red{
+    color:darkred;
+}
+
+.green{
+    color:darkolivegreen;
+}
+
+.blue{
+    color:royalblue;
+}
